@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sexorationumfrag00ciceuoft_0023.png"; bbox 0 0 1971 3263; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 694 1043 890 1374">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 694 1043 890 1374">
+     <span class='ocr_line' id='line_1_1' title="bbox 694 1043 888 1150; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 694 1043 888 1150; x_wconf 21' lang='grc' dir='ltr'>ιιτυζ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 697 1198 878 1263; baseline 0.006 -4"><span class='ocrx_word' id='word_1_2' title='bbox 697 1198 878 1263; x_wconf 71' lang='lat' dir='ltr'>DER</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 694 1310 890 1374; baseline -0.026 0"><span class='ocrx_word' id='word_1_3' title='bbox 694 1310 771 1361; x_wconf 63' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_4' title='bbox 807 1312 890 1374; x_wconf 57' lang='lat' dir='ltr'>fa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 612 1418 1094 2256">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 675 1418 1094 1798">
+     <span class='ocr_line' id='line_1_4' title="bbox 707 1418 1019 1475; baseline 0.016 -5"><span class='ocrx_word' id='word_1_5' title='bbox 707 1418 861 1475; x_wconf 71' lang='grc' dir='ltr'>ιςςε</span> <span class='ocrx_word' id='word_1_6' title='bbox 1016 1448 1019 1449; x_wconf 29' lang='lat' dir='ltr'><strong><em>f</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 703 1428 1094 1616; baseline -0.005 -106"><span class='ocrx_word' id='word_1_7' title='bbox 703 1428 1094 1616; x_wconf 38' lang='lat' dir='ltr'>Tfrsswde</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 694 1617 889 1697; baseline -0.015 0"><span class='ocrx_word' id='word_1_8' title='bbox 694 1617 889 1697; x_wconf 57' lang='grc' dir='ltr'>ΚΝ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 675 1748 875 1798; baseline -0.015 0"><span class='ocrx_word' id='word_1_9' title='bbox 675 1748 875 1798; x_wconf 71' lang='lat' dir='ltr'>Tfsr</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 612 1828 891 2256">
+     <span class='ocr_line' id='line_1_8' title="bbox 612 1828 883 1936; baseline 0.007 -26"><span class='ocrx_word' id='word_1_10' title='bbox 612 1828 883 1936; x_wconf 59' lang='lat' dir='ltr'>qux]</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 687 1968 891 2029; baseline -0.044 1"><span class='ocrx_word' id='word_1_11' title='bbox 687 1968 891 2029; x_wconf 51' lang='lat' dir='ltr'>Mon}</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 682 2078 890 2137; baseline 0 -1"><span class='ocrx_word' id='word_1_12' title='bbox 682 2078 890 2137; x_wconf 59' lang='lat' dir='ltr'>sm:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 681 2190 890 2256; baseline 0.014 -25"><span class='ocrx_word' id='word_1_13' title='bbox 681 2190 890 2256; x_wconf 43' lang='lat'>*4075</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 684 2269 890 2348">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 684 2269 890 2348">
+     <span class='ocr_line' id='line_1_12' title="bbox 684 2269 890 2348; baseline -0.015 0"><span class='ocrx_word' id='word_1_14' title='bbox 684 2269 890 2348; x_wconf 59' lang='lat' dir='ltr'>TONR</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

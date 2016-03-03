@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sexorationumfrag00ciceuoft_0225.png"; bbox 0 0 1918 3254; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 190 1359 1503 1487">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 190 1359 1503 1487">
+     <span class='ocr_line' id='line_1_1' title="bbox 810 1359 882 1394; baseline -0.014 0"><span class='ocrx_word' id='word_1_1' title='bbox 810 1359 882 1394; x_wconf 78' lang='lat' dir='ltr'><strong>AD</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 190 1436 1503 1487; baseline -0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 190 1436 643 1486; x_wconf 75' lang='lat' dir='ltr'><strong>ORATIONEM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 700 1437 996 1487; x_wconf 84' lang='lat' dir='ltr'><strong>EDITAM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1050 1436 1503 1486; x_wconf 75' lang='lat' dir='ltr'><strong>TULLIANAM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 220 1549 1464 1793">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 220 1549 1464 1793">
+     <span class='ocr_line' id='line_1_3' title="bbox 665 1549 1028 1587; baseline 0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 665 1549 723 1586; x_wconf 77' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 751 1549 1028 1587; x_wconf 77' lang='lat' dir='ltr'>VATINIUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 220 1642 1464 1696; baseline 0 -9"><span class='ocrx_word' id='word_1_7' title='bbox 220 1642 751 1687; x_wconf 84' lang='lat' dir='ltr'><strong>COMMENTARIUS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 780 1643 1113 1696; x_wconf 81' lang='lat' dir='ltr'><strong>ANTIQUUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1144 1643 1464 1687; x_wconf 80' lang='lat' dir='ltr'>INEDITUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 430 1750 1265 1793; baseline -0.001 -7"><span class='ocrx_word' id='word_1_10' title='bbox 430 1750 521 1793; x_wconf 65' lang='grc' dir='ltr'><strong>ρει</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 545 1751 780 1787; x_wconf 69' lang='lat' dir='ltr'><strong>vmmmz</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 804 1750 1011 1787; x_wconf 68' lang='lat' dir='ltr'><strong>Ascoxn</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1036 1750 1265 1788; x_wconf 72' lang='lat' dir='ltr'><strong>PEDIANI.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sexorationumfrag00ciceuoft_0157.png"; bbox 0 0 1918 3254; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 151 1102 1457 1280">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 151 1102 1457 1280">
+     <span class='ocr_line' id='line_1_1' title="bbox 777 1102 826 1133; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 777 1102 826 1133; x_wconf 74' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 151 1228 1457 1280; baseline -0.001 -1"><span class='ocrx_word' id='word_1_2' title='bbox 151 1228 602 1280; x_wconf 85' lang='lat' dir='ltr'>ORATIONEM</span> <span class='ocrx_word' id='word_1_3' title='bbox 652 1228 953 1280; x_wconf 92' lang='lat' dir='ltr'>EDITAM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1004 1228 1457 1280; x_wconf 91' lang='lat' dir='ltr'>TULLIANAM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 466 1380 1146 1422">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 466 1380 1146 1422">
+     <span class='ocr_line' id='line_1_3' title="bbox 466 1380 1146 1422; baseline -0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 466 1381 572 1420; x_wconf 92' lang='lat' dir='ltr'>PRO</span> <span class='ocrx_word' id='word_1_6' title='bbox 601 1383 664 1422; x_wconf 88' lang='grc' dir='ltr'>.Α.</span> <span class='ocrx_word' id='word_1_7' title='bbox 693 1380 905 1420; x_wconf 91' lang='lat' dir='ltr'>LICINIO</span> <span class='ocrx_word' id='word_1_8' title='bbox 939 1381 1146 1420; x_wconf 87' lang='lat' dir='ltr'>ARCHIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 170 1516 1438 1566">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 170 1516 1438 1566">
+     <span class='ocr_line' id='line_1_4' title="bbox 170 1516 1438 1566; baseline 0 -6"><span class='ocrx_word' id='word_1_9' title='bbox 170 1517 689 1562; x_wconf 87' lang='lat' dir='ltr'>COMMENTARIUS</span> <span class='ocrx_word' id='word_1_10' title='bbox 725 1517 1045 1566; x_wconf 85' lang='lat' dir='ltr'>ANTIQUUS</span> <span class='ocrx_word' id='word_1_11' title='bbox 1083 1516 1438 1561; x_wconf 91' lang='lat' dir='ltr'>INNEDITUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 438 1661 1161 1700">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 438 1661 1161 1700">
+     <span class='ocr_line' id='line_1_5' title="bbox 438 1661 1161 1700; baseline 0.001 -8"><span class='ocrx_word' id='word_1_12' title='bbox 438 1661 515 1700; x_wconf 80' lang='lat' dir='ltr'>QUI</span> <span class='ocrx_word' id='word_1_13' title='bbox 543 1661 739 1693; x_wconf 84' lang='lat' dir='ltr'>VIDETUR</span> <span class='ocrx_word' id='word_1_14' title='bbox 768 1661 940 1693; x_wconf 82' lang='lat' dir='ltr'>ASCONu</span> <span class='ocrx_word' id='word_1_15' title='bbox 971 1662 1161 1693; x_wconf 81' lang='lat' dir='ltr'>PEDIANI.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
